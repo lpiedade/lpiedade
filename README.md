@@ -14,7 +14,6 @@
 - 💬 Ask me about Java, Blockchain or AWS
 - 📫 How to reach me: @lpiedade
 
-![lpiedade's github stats](https://github-readme-stats.vercel.app/api?username=lpiedade&count_private=true&show_icons=true&theme=merko)
+![lpiedade's github stats](https://github-readme-stats.vercel.app/api?username=lpiedade&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpiedade&layout=compact)
 
