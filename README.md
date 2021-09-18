@@ -5,13 +5,13 @@
 
 **Leonardo Piedade** here, (aka Piedade).
 
-- 💻 Backennd Developers who loves designing system architectures.
+- 💻 Backend Developer who loves designing system architectures.
 - 🚀 Solutions Architect who loves coding.
 - ⛄ Do you wanna build a highly scalable distributed system? Yes I do! :blush:
 - 🔭 I’m currently working on AWS
-- 🌩️ I’m currently learning Economy
+- 🌩️ I’m currently learning Economy and Business Management
 - 🤔 I’m looking for help with interesting projects
-- 💬 Ask me about Java, Blockchain or AWS
+- 💬 Ask me about FSI, Serverless, Java, Blockchain, and AWS
 - 📫 How to reach me: @lpiedade
 
 ![lpiedade's github stats](https://github-readme-stats.vercel.app/api?username=lpiedade&count_private=true&show_icons=true&theme=tokyonight)
