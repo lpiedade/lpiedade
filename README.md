@@ -18,4 +18,16 @@
 <a href="https://twitter.com/leo_ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leoap" height="30" width="40" /></a>
 </p>
 
+
+
+### Major Tech
+
+Java • AWS • Distributed Systems • Blockchain
+
+### Current Focus
+
+LLM Agents • Platform Engineering • Financial Services
+
+---
+
 [![lpiedade's github streak](https://streak-stats.demolab.com?user=lpiedade&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
