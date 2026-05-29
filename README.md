@@ -9,7 +9,7 @@
 🔭 Currently working at AWS — opinions are my own, and all projects shared here are personal  
 🌩️ Currently learning Economics and Business Management  
 🤝 Open to collaborating on interesting and impactful projects  
-💬 Ask me about Resilience Engineering, Financial Services, Serverless, Java, Blockchain, and AW
+💬 Ask me about Resilience Engineering, Financial Services, Serverless, Java, Blockchain, and AWS
 
 
 <h3 align="left">Connect with me:</h3>
